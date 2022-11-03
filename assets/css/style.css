@@ -23,6 +23,7 @@ body {
     font-size: 48px;
 }
 
+/* Navigation starts */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -44,6 +45,8 @@ body {
     margin-left: 25px;
 }
 
+/* Navigation styling ends  */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -53,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Body section styling */
 #hero {
     height: 800px;
     width: 100%;
@@ -190,6 +194,9 @@ p {
     font-size: 36px;
 }
 
+/* Main styling ends  */
+
+/* Footer styling begins */
 .footer {
     padding: 30px;
     clear: both;
@@ -200,3 +207,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* Footer styling ends */
