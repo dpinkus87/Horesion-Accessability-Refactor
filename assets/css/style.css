@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Background style */
 body {
     background-color: #d9dcd6;
 }
@@ -16,7 +17,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* title formatting */
 .header h1 {
     display: inline-block;
     font-size: 48px;

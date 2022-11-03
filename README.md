@@ -6,6 +6,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation?
     Accessibility is good for business—for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
+
+    <!-- ANCHOR This is where I left off -->
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 
